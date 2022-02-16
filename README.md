@@ -1,4 +1,6 @@
-# Newproject
-## trying to make change
-###adding change
-print("Hello world")
+a= "Hello"
+b="World"
+print(a+b)
+print(a)
+print(b)
+print(b+a))
